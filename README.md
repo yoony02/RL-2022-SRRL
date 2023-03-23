@@ -47,6 +47,6 @@ python main.py --dataset lastfm --gpu_num 1
 
 ### Project presenstation
 
-[**Presentation PPT (in Korean)**](./asset/SR-RL_final_pt.pdf) <br>
+[**Presentation PPT (in Korean)**](./assets/SR-RL_final_pt.pdf) <br>
 **Presentation Video (in Korean)**
-[![Video thumbnail](./asset/SR-RL_final_pt_thumbnail.jpg)](https://www.youtube.com/watch?v=IGXcdc7U_R4)
+[![Video thumbnail](./assets/SR-RL_final_pt_thumbnail.JPG)](https://www.youtube.com/watch?v=IGXcdc7U_R4)
